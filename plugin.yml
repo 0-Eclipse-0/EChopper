@@ -1,0 +1,7 @@
+name: EChopper
+main: eclipse\EChopper\EChopper
+version: 1.0.0
+api: [1.0.0]
+load: POSTWORLD
+author: eclipse
+description: Chop down trees faster than ever!
