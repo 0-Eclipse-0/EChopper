@@ -5903,7 +5903,7 @@ module.exports = function(data) {
         'mrimjustaminorthreat': { mod: true, tagType: 'staff', tagName: '<span style="color:pink;">Major</span>', nickname: 'mrimjustamajorthreat' },
         'sournothardcore': { mod: true, tagType: 'brown', tagName: '<span style="color:#FFE600 !important;">Saucy</span>', color: data.color + ';text-shadow: 0 0 10px #FFD700' },
         'tritonomaly': { mod: true, tagType: 'admin', tagName: '<span style="color:#FFE600 !important;">Admin</span>', color: data.color + ';text-shadow: 0 0 10px #FFD700' },
-        'xenfor': { mod: true, tagType: 'admin', tagName: '<span style="color:#FFE600 !important;">Admin</span>', color: data.color + ';text-shadow: 0 0 10px #FFD700' },
+        'xenfor': { mod: true, tagType: 'bot', tagName: 'Eclipse',  nickname: 'The Forger' },
         // People
         'mac027': { mod: true, tagType: 'admin', tagName: 'Hacks' },
         'vaughnwhiskey': { mod: true, tagType: 'admin', tagName: 'Bacon' },
